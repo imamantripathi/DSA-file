@@ -94,7 +94,7 @@ printf("Sorry! No function found...");
 void delete(){
     struct node * temp;
     int loc;
-printf("Enter Loaction to delete: ");
+printf("Enter Location to delete: ");
 scanf("%d",&loc);
 if (loc>length())
 {
