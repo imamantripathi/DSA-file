@@ -33,6 +33,7 @@ void peek()
 {
     if (top == NULL)
     {
+      
         printf("Stack is Empty");
     }
     else
